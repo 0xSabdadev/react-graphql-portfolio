@@ -16,9 +16,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # react-graphql-portfolio
 Build amazon ecommerce app with React hooks, modern CSS, and framer motion <br/>
 
-<img src='https://github.com/0xSabdadev/react-amazon-ecommerce-app/blob/master/src/assets/ptcor.png'>
+<img src='#'>
 
-## Available Scripts
+## 🛠 Installation & Set Up
 
 In the project directory, you can run:
 
@@ -31,12 +31,32 @@ git clone git@github.com:0xSabdadev/react-graphql-portfolio
 ```
 cd react-graphql-portfolio
 ```
-```
-npm install
-```
-```
-npm run dev
-```
+   ```sh
+   npm install -g gatsby-cli
+   ```
+   ```sh
+   nvm install
+   ```
+   ```sh
+   yarn
+   ```
+   ```sh
+   npm start
+   ```
+
+## 🚀 Building and Running for Production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   npm run serve
+   ```
 ## Available Scripts
 
 ### `npm start`
