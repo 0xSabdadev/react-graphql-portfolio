@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # react-graphql-portfolio
 Build amazon ecommerce app with React hooks, modern CSS, and framer motion <br/>
 
-<img src='#'>
+<img src='https://github.com/0xSabdadev/react-graphql-portfolio/blob/master/src/images/demo.png'>
 
 ## 🛠 Installation & Set Up
 
