@@ -9,8 +9,8 @@ tech:
   - Gatsby
   - Redux
   - Styled Components
-company: 'Suven'
+company: 'Personal'
 showInProjects: true
 ---
 
-Project 4 under HTML-CSS Suven Coding Internship
+Personal portfolio web app implemented reactjs and graphql.
