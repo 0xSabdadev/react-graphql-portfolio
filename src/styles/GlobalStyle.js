@@ -27,12 +27,12 @@ const GlobalStyle = createGlobalStyle`
   }
   
   ::-webkit-scrollbar-track{
-  background: rgba(255, 255, 255, 0.2);
+  background: ${colors.navy};
   border-radius: 1ex;
   }
   
   ::-webkit-scrollbar-thumb{
-  background: ${colors.green};
+  background: ${colors.darkSlate};
   border-radius: 1ex;
   }
 

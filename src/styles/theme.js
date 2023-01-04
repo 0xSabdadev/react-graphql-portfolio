@@ -10,6 +10,7 @@ const theme = {
     navy: BG,
     lightNavy: '#112240',
     lightestNavy: '#233554',
+    darkSlate: '#495670',
     slate: '#8892b0',
     lightSlate: '#a8b2d1',
     lightestSlate: '#ccd6f6',
