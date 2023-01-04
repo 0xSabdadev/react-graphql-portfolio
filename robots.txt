@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://0xsabdadev.github.io/sitemap.xml
+Host: https://0xsabdadev.github.io
