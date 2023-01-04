@@ -25,6 +25,6 @@ I like to build functional and user-friendly and at the same time attractive v. 
 
 I am pursuing my Bachelors from [UNDIP, Semarang](https://www.svvv.edu.in/) in Computer Science and Engineering (2020-2023) my current GPA is [3.89]() out of 4.
 
-I am a member of [Developer Student Club - UNDIP](https://gdsc.community.dev/universitas-diponegoro/) and like to build functional and user-friendly and at the same time attractive application.
+I am a member of [Google Developer Student Club - UNDIP](https://gdsc.community.dev/universitas-diponegoro/) and like to build functional and user-friendly and at the same time attractive application.
 
 Here are some of the skills I've mastered!

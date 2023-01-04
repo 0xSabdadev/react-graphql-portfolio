@@ -8,7 +8,7 @@ url: 'https://www.ted.com/tedx/events/38161'
 ---
 
 - Collaborated with other divisions to brainstorm, design, and develop a service product to help people participate in the TEDx event series.
-- Responsible for brainstorming, developing, testing, collaborating, code reviewing, debugging, and deploying frontend features.
-- Sliced UI design into a website and improved user experiences.
+- Responsible for brainstorming, developing, testing, collaborating, code reviewing, debugging, and deploying frontend features. [(GitHub)](https://github.com)
+- Sliced UI design into a website and improved user experiences. [(Bootstrap, SCSS, JavaScript)](https://www.npmjs.com)
 - Implemented front-end engineering best practices and patterns also presented them to other engineers.
-- Migrated backend service into a new system with a better design pattern.
+- Migrated backend service into a new system with a better design pattern. [(Express.js)](<(https://npmjs.com/)>)
