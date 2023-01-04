@@ -9,6 +9,13 @@ const { colors, fontSizes, fonts, navDelay, loaderDelay } = theme;
 const StyledContainer = styled(Section)`
   ${mixins.flexCenter};
   flex-direction: column;
+  margin-top: 30px;
+  ${media.giant`margin-top: 30px;`};
+  ${media.bigDesktop`margin-top: 30px;`};
+  ${media.desktop`margin-top:30px;`};
+  ${media.tablet`margin-top: 0px;`};
+  ${media.phablet`margin-top: 0px;;`};
+  ${media.phone`margin-top: 0px;`};
   align-items: flex-start;
   min-height: 100vh;
   ${media.tablet`padding-top: 150px;`};
