@@ -1,11 +1,14 @@
 ---
-date: '2021-06-01'
-title: 'Voter Registration WebApp'
-github: 'https://github.com/yashitanamdeo/Voter-Registration-WebApp'
-external: 'https://yashitanamdeo.github.io/Voter-Registration-WebApp/'
+date: '2023-01-03'
+title: 'react-graphql-portfolio '
+github: 'https://github.com/0xSabdadev/react-graphql-portfolio'
+external: 'https://github.com/0xSabdadev/react-graphql-portfolio'
 tech:
-  - HTML
-  - CSS
+  - React
+  - GraphQL
+  - Gatsby
+  - Redux
+  - Styled Components
 company: 'Suven'
 showInProjects: true
 ---
