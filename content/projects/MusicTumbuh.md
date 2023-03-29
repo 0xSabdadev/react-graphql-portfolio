@@ -2,7 +2,7 @@
 date: '2022-11-04'
 title: 'app-android-MusicTumbuh'
 github: 'https://github.com/0xSabdadev/app-android-MusicTumbuh'
-external: 'https://github.com/0xSabdadev/app-android-MusicTumbuh'
+external: 'https://github.com/0xSabdadev/numeric-method-calculator-app'
 tech:
   - Java
   - AndroidStudio

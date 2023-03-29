@@ -2,17 +2,20 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Bootstrap
-  - ReactJS
-  - MongoDB
+  - NextJS
+  - TypeScript
   - ExpressJS
+  - JavaScript
   - NodeJS
-  - C/C++
+  - ReactJS
+  - Codeigniter
   - PHP
-  - Rest
+  - TailwindCSS
+  - Bootstrap
+  - Python
+  - C/C++
+  - noSQL(MongoDB)
+  - MySQL,PostgreSQL,MariaDB
 ---
 
 Hello! I'm [Jason AlHilal](https://www.linkedin.com/jasonalhilal). I'm a Developer based in Indonesia. I enjoy turning complex problems into simple, beautiful and intuitive solutions.
